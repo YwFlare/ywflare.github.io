@@ -6,8 +6,8 @@
   @include container;
   @include clearfix;
   margin-top: 1em;
-  padding-left: 1em;
-  padding-right: 1em;
+  padding-left: 3em;
+  padding-right: 3.8em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
@@ -67,7 +67,7 @@
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: 1.03em;
   }
 
   /* paragraph indents */
