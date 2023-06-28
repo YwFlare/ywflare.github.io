@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weifeng Yuan (苑伟锋)"
-description              : "苑·数学小王子·哲学家·计算机大神·伟锋"
+description              : "CEO of Tianjin Fengshuo Technology Co., Ltd."
 repository               : "YwFlare/ywflare.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weifeng Yuan"
   avatar           : "images/ywf.jpg"
-  bio              : "CEO of Tianjin Fengshuo Technology Co., Ltd."
+  bio              : "苑·数学小王子·哲学家·计算机大神·伟锋"
   location         : "Tianjin, China"
   employer         :
   pubmed           : 
