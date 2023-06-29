@@ -5,3 +5,5 @@ Hello! This is Weifeng Yuan (苑伟锋). I graduated from the College of Compute
 My research interests include semantic segmentation, action segmentation and attention mechanisms. My graduation thesis, supervised by Dr. [Qibin Hou](https://houqb.github.io/), is focused on mutil-sacle attention in action segmentation. Excitingly, a paper on Semi-Supervised Semantic Segmentation is in preparation.
 
 In addition, I am an sports enthusiast and running is my favorite activity. I participate in several half marathons every year. I have practiced martial arts and taekwondo. I am also a skilled swimmer and have recently been learning how to play badminton.
+
+I am the initiator of the [GloryPath](https://nkuflare.com/), which embodies a beautiful vision.
