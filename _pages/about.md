@@ -18,13 +18,3 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %}
 
-{% include_relative includes/news.md %}
-
-{% include_relative includes/educations.md %}
-
-{% include_relative includes/honers.md %}
-
-{% include_relative includes/internships.md %}
-
-<span class='anchor' id='-teaching-assistant'></span>
-{% include_relative includes/ta.md %}

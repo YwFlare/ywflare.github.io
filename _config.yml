@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Weifeng Yuan (苑伟锋)"
-description              : "Research interest in semantic segmentation, action segmentation and attention mechanisms."
+title                    : ""
+description              : ""
 repository               : "YwFlare/ywflare.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Weifeng Yuan"
-  avatar           : "images/ywf.jpg"
-  bio              : "苑·数学小王子·哲学家·计算机大神·伟锋"
-  location         : "Tianjin, China"
+  name             : ""
+  avatar           : ""
+  bio              : ""
+  location         : ""
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "ywflare@gmail.com"
+  email            : ""
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YwFlare" # e.g., "github username"
+  github           : "" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
