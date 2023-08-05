@@ -9,3 +9,4 @@
 - *2021.07 - 2021.08*, Bank of China, R&D Engineer, Tianjin, China.
   - **Paper Bill Recognition System**: Developed an advanced paper bill recognition system utilizing OCR technology, facilitating efficient data extraction and statistical analysis.
   - **Automated Online Course Tracking Tool**: Designed an automated tool using web scraping for real-time tracking of online course completion, aiding in learning assessment and improvement.
+
