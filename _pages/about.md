@@ -23,7 +23,7 @@ redirect_from:
 {% include_relative includes/educations.md %}
 
 {% include_relative includes/honers.md %}
-
+<span class='anchor' id='internships & Teaching Assistant'></span>
 {% include_relative includes/intern+ta.md %}
-
+<span class='anchor' id='entrepreneurship'></span>
 {% include_relative includes/entrepreneurship.md %}
