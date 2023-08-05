@@ -1,0 +1,9 @@
+# 📣 Entrepreneurial Experience
+
+- **E-commerce Ventures**: I initiated and managed e-commerce ventures specializing in reselling secondhand electronics, cosmetics, and sneakers. These ventures not only honed my skills in market research, pricing strategy, and customer engagement but also provided insights into distinct consumer preferences across different product categories.
+
+- **Employment Guidance Company**: Recognizing the significance of professional development, I established a company focused on providing comprehensive employment guidance. Through personalized consultations and workshops, this endeavor empowered job seekers to navigate the competitive job market with confidence. The creation of an expansive online community comprising 62 groups with a collective membership exceeding 7000 underscored my ability to foster a collaborative and supportive ecosystem.
+
+- **Upcoming Study Abroad Consultancy**: I am currently in the planning stages of launching a study abroad consultancy. This venture aims to facilitate students' global education aspirations by offering insights into study abroad options, application procedures, and cultural assimilation. By guiding students through this transformative experience, I aim to bridge cross-cultural boundaries and enable academic pursuits on a global scale.
+
+- **Vision for Future Tech Company**: With an unwavering passion for technology and innovation, my long-term vision involves establishing a tech company at the forefront of industry advancements. This enterprise aspires to spearhead cutting-edge solutions, particularly in the realms of artificial intelligence, sustainable technologies, and beyond. This vision reflects my dedication to driving positive change through technological innovation.
