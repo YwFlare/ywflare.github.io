@@ -6,4 +6,4 @@ My research interests include semantic segmentation, action segmentation and AIG
 
 In addition, I am an sports enthusiast and running is my favorite activity. I participate in several half marathons every year. I have practiced martial arts and taekwondo. I am also a skilled swimmer and have recently been learning how to play badminton.
 
-[[致新生](../../files/toNew.html)] [[奖学金](../../files/scholarship.html)]
+[[致新生](javascript:window.location.href='../../files/toNew.html‘)] [[奖学金](javascript:window.location.href='../../files/scholarship.html’)]
