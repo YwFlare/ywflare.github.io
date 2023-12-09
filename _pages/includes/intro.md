@@ -6,4 +6,4 @@ My research interests include semantic segmentation, action segmentation and att
 
 In addition, I am an sports enthusiast and running is my favorite activity. I participate in several half marathons every year. I have practiced martial arts and taekwondo. I am also a skilled swimmer and have recently been learning how to play badminton.
 
-I am the initiator of the [GloryPath](https://nkuflare.com/), which embodies a beautiful vision.
+[致新生]((http://ywflare.github.io/files/toNew.html)) [奖学金]((http://ywflare.github.io/files/scholarship.html))
