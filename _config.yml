@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weifeng Yuan (苑伟锋)"
-description              : "Research interest in semantic segmentation, action segmentation and attention mechanisms."
+description              : "Research interest in semantic segmentation, action segmentation and AIGC."
 repository               : "YwFlare/ywflare.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weifeng Yuan"
   avatar           : "images/ywf.jpg"
-  bio              : ""
+  bio              : "Tianjin Fengshuo Tech Co., Ltd."
   location         : "Tianjin, China"
   employer         :
   pubmed           : 
